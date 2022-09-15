@@ -1,0 +1,130 @@
+,country,file_x,file_y
+199,Africa Eastern and Southern,,world_bank
+200,Africa Western and Central,,world_bank
+201,American Samoa,,world_bank
+5,Antarctica,covid,
+202,Arab World,,world_bank
+203,Aruba,,world_bank
+12,Bahamas,covid,
+204,"Bahamas, The",,world_bank
+205,Bermuda,,world_bank
+206,British Virgin Islands,,world_bank
+25,Brunei,covid,
+207,Brunei Darussalam,,world_bank
+28,Burma,covid,
+208,Caribbean small states,,world_bank
+209,Cayman Islands,,world_bank
+210,Central Europe and the Baltics,,world_bank
+211,Channel Islands,,world_bank
+40,Congo (Brazzaville),covid,
+41,Congo (Kinshasa),covid,
+212,"Congo, Dem. Rep.",,world_bank
+213,"Congo, Rep.",,world_bank
+214,Curacao,,world_bank
+215,Czech Republic,,world_bank
+47,Czechia,covid,
+49,Diamond Princess,covid,
+216,Early-demographic dividend,,world_bank
+217,East Asia & Pacific,,world_bank
+218,East Asia & Pacific (IDA & IBRD countries),,world_bank
+219,East Asia & Pacific (excluding high income),,world_bank
+54,Egypt,covid,
+220,"Egypt, Arab Rep.",,world_bank
+221,Euro area,,world_bank
+222,Europe & Central Asia,,world_bank
+223,Europe & Central Asia (IDA & IBRD countries),,world_bank
+224,Europe & Central Asia (excluding high income),,world_bank
+225,European Union,,world_bank
+226,Faroe Islands,,world_bank
+227,Fragile and conflict affected situations,,world_bank
+228,French Polynesia,,world_bank
+65,Gambia,covid,
+229,"Gambia, The",,world_bank
+230,Gibraltar,,world_bank
+231,Greenland,,world_bank
+232,Guam,,world_bank
+233,Heavily indebted poor countries (HIPC),,world_bank
+234,High income,,world_bank
+76,Holy See,covid,
+235,"Hong Kong SAR, China",,world_bank
+236,IBRD only,,world_bank
+237,IDA & IBRD total,,world_bank
+238,IDA blend,,world_bank
+239,IDA only,,world_bank
+240,IDA total,,world_bank
+82,Iran,covid,
+241,"Iran, Islamic Rep.",,world_bank
+242,Isle of Man,,world_bank
+243,"Korea, Dem. People's Rep.",,world_bank
+93,"Korea, North",covid,
+244,"Korea, Rep.",,world_bank
+94,"Korea, South",covid,
+245,Kyrgyz Republic,,world_bank
+97,Kyrgyzstan,covid,
+246,Lao PDR,,world_bank
+98,Laos,covid,
+247,Late-demographic dividend,,world_bank
+248,Latin America & Caribbean,,world_bank
+249,Latin America & Caribbean (excluding high income),,world_bank
+250,Latin America & the Caribbean (IDA & IBRD countries),,world_bank
+251,Least developed countries: UN classification,,world_bank
+252,Low & middle income,,world_bank
+253,Low income,,world_bank
+254,Lower middle income,,world_bank
+107,MS Zaandam,covid,
+255,"Macao SAR, China",,world_bank
+118,Micronesia,covid,
+256,"Micronesia, Fed. Sts.",,world_bank
+257,Middle East & North Africa,,world_bank
+258,Middle East & North Africa (IDA & IBRD countries),,world_bank
+259,Middle East & North Africa (excluding high income),,world_bank
+260,Middle income,,world_bank
+261,Myanmar,,world_bank
+262,Nauru,,world_bank
+263,New Caledonia,,world_bank
+264,North America,,world_bank
+265,Northern Mariana Islands,,world_bank
+266,Not classified,,world_bank
+267,OECD members,,world_bank
+268,Other small states,,world_bank
+269,Pacific island small states,,world_bank
+270,Post-demographic dividend,,world_bank
+271,Pre-demographic dividend,,world_bank
+272,Puerto Rico,,world_bank
+146,Russia,covid,
+273,Russian Federation,,world_bank
+148,Saint Kitts and Nevis,covid,
+149,Saint Lucia,covid,
+150,Saint Vincent and the Grenadines,covid,
+274,Sint Maarten (Dutch part),,world_bank
+275,Slovak Republic,,world_bank
+160,Slovakia,covid,
+276,Small states,,world_bank
+277,South Asia,,world_bank
+278,South Asia (IDA & IBRD),,world_bank
+279,St. Kitts and Nevis,,world_bank
+280,St. Lucia,,world_bank
+281,St. Martin (French part),,world_bank
+282,St. Vincent and the Grenadines,,world_bank
+283,Sub-Saharan Africa,,world_bank
+284,Sub-Saharan Africa (IDA & IBRD countries),,world_bank
+285,Sub-Saharan Africa (excluding high income),,world_bank
+169,Summer Olympics 2020,covid,
+173,Syria,covid,
+286,Syrian Arab Republic,,world_bank
+174,Taiwan*,covid,
+183,Turkey,covid,
+287,Turkiye,,world_bank
+288,Turkmenistan,,world_bank
+289,Turks and Caicos Islands,,world_bank
+290,Tuvalu,,world_bank
+184,US,covid,
+291,United States,,world_bank
+292,Upper middle income,,world_bank
+192,Venezuela,covid,
+293,"Venezuela, RB",,world_bank
+294,Virgin Islands (U.S.),,world_bank
+195,Winter Olympics 2022,covid,
+295,World,,world_bank
+196,Yemen,covid,
+296,"Yemen, Rep.",,world_bank
